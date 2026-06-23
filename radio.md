@@ -1,15 +1,13 @@
 <link rel="stylesheet" href="theme.css">
 
 <blockquote>
-    <i>a perfect evening: your phone is on silent, you've made tea, you're sat in your comfiest chair with a good album, you're calm, relaxed, and plotting your sweet, sweet revenge.</i>
+    <i>"a perfect evening: your phone is on silent, you've made tea, you're sat in your comfiest chair with a good album, you're calm, relaxed, and plotting your sweet, sweet revenge."</i>
     <br>
-    <font color="#616569">quite adept, when asked at a job interview to describe a perfect evening, May 18, 2024</font>
+    <font color="#616569">quite adept, when asked at a job interview to describe a perfect evening – May 18, 2024</font>
 </blockquote>
 <br><br>
 <br>
 <center>- - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - -</center>
-<br>
-<br>
 <br>
 <br>
 <br>
