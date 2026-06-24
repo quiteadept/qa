@@ -102,17 +102,26 @@ tbody tr:nth-child(even) {
     background-color: #150D1F;
 }
 
-aside,
-[class *= "sidebar"],
-[id *= "sidebar"] {
-	max-width: 90%;
-	margin: 0 auto;
-	border: 1px solid lightgrey;
-	padding: 5px 15px;
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #4D1859;
+  display: flex;
+  justify-content: center;
 }
 
-@media (min-width: 1921px) {
-	body {
-		font-size: 18px;
+ul li a {
+  display: block;
+  font-family: 'Montserrat', sans-serif;
+  color: #FFEAB3;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #D26974;
+}
+
 	}
 }
