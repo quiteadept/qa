@@ -24,6 +24,36 @@
 <br>
 <br>
 
+### the key, the flame, and the name
+
+peer into the lock<br>
+to envision the key<br>
+then maybe, maybe<br>
+feel more secure<br>
+<br>
+listen to the struck match<br>
+to hear the flame<br>
+then maybe, maybe<br>
+feel a little warmer<br>
+<br>
+write out the name<br>
+read it to the envelope<br>
+then maybe, maybe<br>
+feel less alone<br>
+<br>
+put it all away<br>
+back where it belongs<br>
+then maybe, maybe<br>
+feel a little better<br>
+<br>
+<font color="#616569"><sup>added 2026/07/13</sup></font>
+<br>
+<br>
+<br>
+<center>- - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - -</center>
+<br>
+<br>
+
 ### things et al.
 
 things that you want to do<br>
