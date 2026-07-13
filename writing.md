@@ -24,6 +24,21 @@
 <br>
 <br>
 
+### things et al.
+
+things that you want to do<br>
+and things that you get into<br>
+things that you wanted to<br>
+and things that you didn't do<br>
+<br>
+<font color="#616569"><sup>added 2026/07/13</sup></font>
+<br>
+<br>
+<br>
+<center>- - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - -</center>
+<br>
+<br>
+
 ### tohoku japan haiku journey
 <img width="400" src="imgs/haiku1.png" title="Camellia Bloom"><br>
 Beach of black pebbles<br>
