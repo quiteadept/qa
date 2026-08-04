@@ -32,7 +32,7 @@
 <br>
 <br>
 <br>
-<font color="#919599">for more information, visit the quite adept <a href="https://discord.gg/AaYUM45Ce" target="_blank">discord</a> (not recommended)</font>
+<font color="#919599">for more information, visit the quite adept <a href="https://discord.gg/BPbUkuBvZG" target="_blank">discord</a> (not recommended)</font>
 <br>
 <br>
 <br>
