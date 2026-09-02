@@ -24,6 +24,42 @@
 <br>
 <br>
 
+### what's really in the fountain?
+
+cents...<br>
+pence spent<br>
+with wishful intent<br>
+or wistfully<br>
+expensed pensively,<br>
+expensively lent<br>
+<br>
+wishes...<br>
+wants, ambitious<br>
+or superstitious<br>
+in a pool, fishless<br>
+full of yearning<br>
+full of earnings<br>
+<br>
+customs...<br>
+traditions, trust 'em<br>
+or are you just accustomed,<br>
+just some sum we pay<br>
+a crumb of income<br>
+humdrum, everyday<br>
+<br>
+what's really in the fountain?<br>
+I hear it plop<br>
+I see it settle<br>
+shiny disc of metal<br>
+<br>
+<font color="#616569"><sup>added 2026/09/02</sup></font>
+<br>
+<br>
+<br>
+<center>- - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - -</center>
+<br>
+<br>
+
 ### the key, the flame, and the name
 
 peer into the lock<br>
