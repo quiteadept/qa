@@ -24,6 +24,49 @@
 <br>
 <br>
 
+### Disemburst
+
+Infected with a hum<br>
+Dissonant song reverberating<br>
+Inside, all the way up top<br>
+When did it begin?<br>
+<br>
+Murmuring drone<br>
+Encompassing the inner ear<br>
+Is it here?<br>
+No, it makes itself unreachable<br>
+<br>
+The twin to silence<br>
+Soundlessly, heard by all<br>
+A building cranial crescendo<br>
+Burgeoning, burgeoning<br>
+Boundlessly echoing all around<br>
+Confined in the mind<br>
+Yet feverishly breaking through<br>
+<br>
+Don't heed it<br>
+Contain it if you can<br>
+The head unfed<br>
+Don't feed it<br>
+<br>
+Yet it amplifies a thousand times<br>
+Can't ignore more and more<br>
+The shackles release<br>
+You did all you could<br>
+<br>
+Blaring aloud, it finally<br>
+Finally bursts out<br>
+<br>
+Pop goes the skull<br>
+<br>
+<font color="#616569"><sup>added 2026/09/10</sup></font>
+<br>
+<br>
+<br>
+<center>- - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - -</center>
+<br>
+<br>
+
 ### what's really in the fountain?
 
 cents...<br>
