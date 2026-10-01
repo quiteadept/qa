@@ -24,6 +24,44 @@
 <br>
 <br>
 
+### the light beneath the eyelid
+
+between the eye<br>
+and the eyelid<br>
+a light unseen;<br>
+every door has a doorway;<br>
+open it shut,<br>
+go in between<br>
+<br>
+close your eyes and see;<br>
+it moves statically,<br>
+swirling without motion;<br>
+the film on the screen<br>
+only you can see,<br>
+the colorful ocean<br>
+<br>
+look through it,<br>
+there's nothing to it,<br>
+only you can view it;<br>
+with eyes open and closed,<br>
+the photo, exposed,<br>
+of light, composed<br>
+<br>
+this is the source,<br>
+the gift we were given,<br>
+and we called it vision;<br>
+but in the darkness,<br>
+with nothing else to see,<br>
+it became our prison<br>
+<br>
+<font color="#616569"><sup>added 2026/10/01</sup></font>
+<br>
+<br>
+<br>
+<center>- - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - -</center>
+<br>
+<br>
+
 ### Disemburst
 
 Infected with a hum<br>
