@@ -11,13 +11,10 @@
     <li><a href="/faq"><font color="#FFEAB3">faq</font></a></li>
     <li> &nbsp; </li>
 </ul>
-
-<blockquote>
-    [ALBUM AVAILABLE ON BANDCAMP](https://quiteadept.bandcamp.com/album/parodies-4-charities)
-</blockquote>
-<br><br>
 <br>
-<center>- - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - -</center>
+<blockquote>
+<a target="_blank" rel="noopener noreferrer" href="https://quiteadept.bandcamp.com/album/parodies-4-charities">ALBUM AVAILABLE ON BANDCAMP</a>
+</blockquote>
 <br>
 <br>
 <br>
@@ -40,8 +37,8 @@ by purchasing this album, you are directly supporting the following charitable c
 <br><br><br><br>
 
 # FAQ
-
-### Do these songs use AI?
+<br>
+### <b><font color="#4D1859">Do these songs use AI?</font></b>
 <br>
 No. All of the vocals are sung by a human and/or two dogs in a trench coat pretending to be a human. Most vocals have filtering on them to remove unwanted noise and tone, and some use a free autotune plugin in FL Studio called Graillon 3 to try and get them sounding closer to the original song. This autotuning was done in post so it has some hiccups. None of the instruments are AI either.
 <br><br><br>
