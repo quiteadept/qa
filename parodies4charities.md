@@ -13,7 +13,7 @@
 </ul>
 <br>
 <blockquote>
-<font size="5"><a target="_blank" rel="noopener noreferrer" href="https://quiteadept.bandcamp.com/album/parodies-4-charities">ALBUM AVAILABLE ON BANDCAMP</a></font>
+<font size="6"><a target="_blank" rel="noopener noreferrer" href="https://quiteadept.bandcamp.com/album/parodies-4-charities">ALBUM AVAILABLE ON BANDCAMP</a></font>
 </blockquote>
 <br>
 <br>
@@ -29,7 +29,6 @@ your purchase of this incredible album will benefit four awesome charities!!! a 
 <br>
 by purchasing this album, you are directly supporting the following charitable causes:<br> 
 <br>
-
 <b>[Games for Love](https://gamesforlove.org/)</b><br>
 <b>[Bridge Breast Network](https://bridgebreast.org/)</b><br>
 <b>[Trans Lifeline](https://translifeline.org/)</b><br>
@@ -54,10 +53,10 @@ Almost always because they are songs from an album that quite adept owns, enjoys
 Yeah we know. I mean l know. We understand the confusion. If you must know, the person who wrote and arranged all the songs is supposedly identified with the name J. R. Dax, and the person who sang most of them goes by seanFLAme, but neither of those are real names. The entity known as quite adept uses the royal we on occasion but also the collective we even if only one person was involved on a project. By design, there is no singular persona behind quite adept.
 <br><br><br>
 ### <font color="#BBA6FF">What?</font>
-See the quite adept FAQ for more information.
+See the [quite adept FAQ](https://quiteade.pt/faq) for more information.
 <br><br><br>
 ### <font color="#BBA6FF">Why are the sales of this album going to charity?</font>
-Because it would be weird to make money off of parodies of other people's music. Because quite adept isn't in it for the money; I don't need money, these charities do. Because giving to charity is virtuous and raising money for charity in this way is literally the only good form of virtue signaling. Because we were inspired by the Far Lands or Bust journey of kurtjmac, which has raised money for charity through the medium of Minecraft for about 15 years now. Because it's the right thing to do. Because being a good person is different from being a kind person, and championing charity makes me look like a kind person, which I'm absolutely not.
+Because it would be weird to make money off of parodies of other people's music. Because quite adept isn't in it for the money; I don't need money, these charities do. Because giving to charity is virtuous and raising money for charity in this way is literally the only good form of virtue signaling. Because we were inspired by the [Far Lands or Bust journey of kurtjmac](https://www.twitch.tv/kurtjmac), which has raised money for charity through the medium of Minecraft for about 15 years now. Because it's the right thing to do. Because being a good person is different from being a kind person, and championing charity makes me look like a kind person, which I'm absolutely not.
 <br><br><br>
 ### <font color="#BBA6FF">Why did you pick four different charities?</font>
 I couldn't decide on just one. A couple of them benefit causes that I have a deep, personal connection with and the other two are really important causes as well. Plus the album is called Parodies 4 Charities, there's a 4 right there in the name!
