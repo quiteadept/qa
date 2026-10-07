@@ -13,13 +13,13 @@
 </ul>
 <br>
 <blockquote>
-<a target="_blank" rel="noopener noreferrer" href="https://quiteadept.bandcamp.com/album/parodies-4-charities">ALBUM AVAILABLE ON BANDCAMP</a>
+<font size="5"><a target="_blank" rel="noopener noreferrer" href="https://quiteadept.bandcamp.com/album/parodies-4-charities">ALBUM AVAILABLE ON BANDCAMP</a></font>
 </blockquote>
 <br>
 <br>
 <br>
 
-# Parodies 4 Charities
+# <font color="#FFF5DC">Parodies 4 Charities</font>
 
 the long awaited, double-length, 24-track, original parody album by quite adept is here at last with over 90 minutes of Minecraft musical madness!<br>
 <br>
@@ -34,12 +34,11 @@ by purchasing this album, you are directly supporting the following charitable c
 <b>[Bridge Breast Network](https://bridgebreast.org/)</b><br>
 <b>[Trans Lifeline](https://translifeline.org/)</b><br>
 <b>[Dogs for Better Lives](https://dogsforbetterlives.org/)</b><br>
-<br><br><br><br>
+<br><br><br>
 
 # FAQ
 <br>
-### <b><font color="#4D1859">Do these songs use AI?</font></b>
-<br>
+### <font color="#FFF5DC">Do these songs use AI?</font>
 No. All of the vocals are sung by a human and/or two dogs in a trench coat pretending to be a human. Most vocals have filtering on them to remove unwanted noise and tone, and some use a free autotune plugin in FL Studio called Graillon 3 to try and get them sounding closer to the original song. This autotuning was done in post so it has some hiccups. None of the instruments are AI either.
 <br><br><br>
 ### Do these songs sample the original songs?
