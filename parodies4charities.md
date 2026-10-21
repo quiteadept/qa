@@ -25,14 +25,14 @@ the long awaited, double-length, 24-track, original parody album by quite adept 
 <br>
 <a target="_blank" rel="noopener noreferrer" href="https://quiteadept.bandcamp.com/album/parodies-4-charities"><img width="360" src="https://f4.bcbits.com/img/a0492032696_2.jpg"></a><br>
 <br>
-your purchase of this incredible album will benefit four awesome charities!!! a minimum of 100% of all earnings paid out to the artist (quite adept) by bandcamp (after their small fee, currency exchange, and payment processor fees) from sales of this album will be donated evenly and directly to the four charities below on a monthly basis from now until January 1, 2028... album sales receipts and proof of these donations will be posted here and on [bluesky](bsky.app/profile/quiteadept.itch.io) each month... further sales after January 1, 2028 may not necessarily be donated in a timely fashion, nor evenly to each charity, nor guaranteed to be donated at all (we'll still donate some or all earnings after this date, we just won't be able to diligently keep track of it month by month in perpetuity)<br>
+your purchase of this incredible album will benefit four awesome charities!!! a minimum of 100% of all earnings paid out to the artist (quite adept) by bandcamp (after their small fee, currency exchange, and payment processor fees) from sales of this album will be donated evenly and directly to the four charities below on a monthly basis from now until January 1, 2028... album sales receipts and proof of these donations will be posted here and on <a target="_blank" rel="noopener noreferrer" href="https://bsky.app/profile/quiteadept.itch.io">bluesky</a> each month... further sales after January 1, 2028 may not necessarily be donated in a timely fashion, nor evenly to each charity, nor guaranteed to be donated at all (we'll still donate some or all earnings after this date, we just won't be able to diligently keep track of it month by month in perpetuity)<br>
 <br>
 by purchasing this album, you are directly supporting the following charitable causes:<br> 
 <br>
-<b>[Games for Love](https://gamesforlove.org/)</b><br>
-<b>[Bridge Breast Network](https://bridgebreast.org/)</b><br>
-<b>[Trans Lifeline](https://translifeline.org/)</b><br>
-<b>[Dogs for Better Lives](https://dogsforbetterlives.org/)</b><br>
+<b><a target="_blank" rel="noopener noreferrer" href="https://gamesforlove.org/">Games for Love</a></b><br>
+<b><a target="_blank" rel="noopener noreferrer" href="https://bridgebreast.org/">Bridge Breast Network</a></b><br>
+<b><a target="_blank" rel="noopener noreferrer" href="https://translifeline.org/">Trans Lifeline</a></b><br>
+<b><a target="_blank" rel="noopener noreferrer" href="https://dogsforbetterlives.org/">Dogs for Better Lives</a></b><br>
 <br><br><br>
 
 # FAQ
