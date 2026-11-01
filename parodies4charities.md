@@ -35,6 +35,10 @@ by purchasing this album, you are directly supporting the following charitable c
 <b><a target="_blank" rel="noopener noreferrer" href="https://dogsforbetterlives.org/">Dogs for Better Lives</a></b><br>
 <br><br><br>
 
+2026/10/01 - 2026/10/31 --- Sales Quantity = 7 &nbsp; &nbsp; | &nbsp; &nbsp; Gross Revenue = $206.09 &nbsp; &nbsp; | &nbsp; &nbsp; Taxes & Fees = $44.10 &nbsp; &nbsp; | &nbsp; &nbsp; Net Revenue = $161.99<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Total Donated = $168.00 (42 x 4) <a target="_blank" rel="noopener noreferrer" href="https://bsky.app/profile/quiteadept.itch.io/post/3mzbaw3pvfs27">view post</a>
+
+<br><br><br>
 # FAQ
 <br>
 ### <font color="#BBA6FF">Do these songs use AI?</font>
